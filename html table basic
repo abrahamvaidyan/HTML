@@ -1,0 +1,23 @@
+<table>
+  <caption> "UEFA TEAM"</caption>
+  <thead>
+    <tr>
+      <th>"TEAM"</th>
+      <th>RANK</th>
+      
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Chelsea</td>
+      <td>2</td>
+      
+    </tr>
+
+    <tr>    
+      <td>ALl star</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>      
